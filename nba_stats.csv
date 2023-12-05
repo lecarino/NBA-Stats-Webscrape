@@ -1,0 +1,21 @@
+Stat Leaders for 12/04/2023
+
+Category,Values
+Player_Points,"['Jayson Tatum', 'Jaylen Brown', 'DeAaron Fox', 'Brandon Ingram', 'Tyrese Haliburton']"
+Player_Rebounds,"['Domantas Sabonis', 'Jayson Tatum', 'Jonas Valanciunas', 'Tyrese Haliburton', 'Myles Turner']"
+Player_Assists,"['Tyrese Haliburton', 'Domantas Sabonis', 'Derrick White', 'CJ McCollum', 'Brandon Ingram']"
+Player_Blocks,"['Luke Kornet', 'Jose Alvarado', 'Jaylen Brown', 'Herbert Jones', 'CJ McCollum']"
+Player_Steals,"['Bruce Brown', 'Zion Williamson', 'Jose Alvarado', 'Dyson Daniels', 'Buddy Hield']"
+Player_Turnovers,"['DeAaron Fox', 'Derrick White', 'Zion Williamson', 'Dalano Banton', 'Bruce Brown']"
+Player_Three Pointers Made,"['Tyrese Haliburton', 'Sam Hauser', 'Malik Monk', 'Buddy Hield', 'Bennedict Mathurin']"
+Player_Free Throws Made,"['Domantas Sabonis', 'DeAaron Fox', 'Brandon Ingram', 'Bruce Brown', 'Herbert Jones']"
+Player_Fantasy Points,"['Domantas Sabonis', 'Tyrese Haliburton', 'Jayson Tatum', 'Brandon Ingram', 'Jaylen Brown']"
+Team_Points,"['New Orleans Pelicans', 'Indiana Pacers', 'Sacramento Kings', 'Boston Celtics']"
+Team_Rebounds,"['Boston Celtics', 'New Orleans Pelicans', 'Indiana Pacers', 'Sacramento Kings']"
+Team_Assists,"['New Orleans Pelicans', 'Sacramento Kings', 'Indiana Pacers', 'Boston Celtics']"
+Team_Blocks,"['Boston Celtics', 'New Orleans Pelicans', 'Indiana Pacers', 'Sacramento Kings']"
+Team_Steals,"['New Orleans Pelicans', 'Indiana Pacers', 'Sacramento Kings', 'Boston Celtics']"
+Team_Field Goal Percentage,"['New Orleans Pelicans', 'Boston Celtics', 'Indiana Pacers', 'Sacramento Kings']"
+Team_Three Pointers Made,"['Indiana Pacers', 'New Orleans Pelicans', 'Sacramento Kings', 'Boston Celtics']"
+Team_Three Point Percentage,"['Indiana Pacers', 'New Orleans Pelicans', 'Sacramento Kings', 'Boston Celtics']"
+Team_Free Throw Percentage,"['New Orleans Pelicans', 'Sacramento Kings', 'Indiana Pacers', 'Boston Celtics']"
